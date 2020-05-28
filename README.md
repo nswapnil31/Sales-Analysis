@@ -2,7 +2,7 @@
 
 In this Project I have use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
-I start by cleaning data. Tasks during this section include:
+I started by cleaning data. Tasks performed is as follows:
 
 * Drop NaN values from DataFrame
 * Removing rows based on a condition
